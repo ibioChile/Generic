@@ -1,4 +1,4 @@
-** Access server:
+* Access server:
 
 Access the server using your credentials.
 
@@ -16,7 +16,7 @@ If you need to access a specific node, specify the node name when accessing the 
 
 More information [here](http://usuarios.nlhpc.cl/index.php/Tutorial_de_acceso_a_Leftraru_via_SSH)
 
-** Example 1: Create conda environment and run job.
+* Example 1: Create conda environment and run job.
 
 Load Anaconda module (this module is already found on SLURM).
 
