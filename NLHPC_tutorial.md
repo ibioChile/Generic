@@ -60,6 +60,11 @@ Run job:
 
 ```pcamejo@leftraru2:~/botrytis_example$ sbatch bowtie.sh```
 
+To check the job status:
+
+```pcamejo@leftraru2:~/botrytis_example$ squeue```
+
+
 ## Example 2: Install program locally
 
 I recommend to create a folder where all local programs will be stored:
